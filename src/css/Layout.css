@@ -1,0 +1,42 @@
+nav {
+  width: 300px;
+  position: fixed;
+  background-color: #8CB9BD;
+  height: 100vh;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+nav ul li {
+  font-size: 1.25rem;
+}
+nav h1 {
+  cursor: pointer;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  width: 300px;
+  padding: 0.5rem 0;
+}
+.nav-link:hover {
+  background-color: rgb(180, 215, 219);
+}
+
+.active {
+  background-color: #FEFBF6;
+  padding: 0.5rem 0;
+}
+
+main {
+  margin-left: 300px;
+  background-color: #FEFBF6;
+  height: 100vh;
+  padding: 1.5rem;
+}
+
+/*# sourceMappingURL=Layout.css.map */

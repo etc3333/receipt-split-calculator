@@ -1,0 +1,46 @@
+$sidebar-width: 300px;
+
+nav {
+  width: $sidebar-width;
+  position: fixed;
+  background-color: #8CB9BD;
+  height: 100vh;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    li {
+      font-size: 1.25rem;
+    }
+  }
+
+  h1 {
+    cursor: pointer;
+  }
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  width: $sidebar-width;
+  padding: .5rem 0;
+
+  &:hover {
+    background-color:  rgba(180, 215, 219, 1);
+  }
+}
+
+.active {
+  background-color: #FEFBF6;
+  padding: .5rem 0;
+}
+
+main {
+  margin-left: $sidebar-width;
+  background-color: #FEFBF6;
+  height: 100vh;
+  padding: 1.5rem;
+}

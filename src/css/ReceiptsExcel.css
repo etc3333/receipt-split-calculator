@@ -1,0 +1,28 @@
+.receipt-dropdown-button {
+  border: solid black 1px;
+}
+
+.receipt-list {
+  list-style: none;
+  padding: 0;
+}
+.receipt-list li {
+  background-color: #FFDD95;
+  margin: 1rem 0;
+}
+
+.dropdown-content-default {
+  height: 0px;
+  overflow: hidden;
+  transition: height 0.5s ease;
+  background-color: #FFDD95;
+}
+
+.dropdown-content-show {
+  background-color: #FFDD95;
+  height: 500px;
+  overflow: auto;
+  padding: 1rem;
+}
+
+/*# sourceMappingURL=ReceiptsExcel.css.map */
