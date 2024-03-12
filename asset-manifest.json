@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/receipt-split-calculator/static/css/main.2c35c5e7.css",
+    "main.js": "/receipt-split-calculator/static/js/main.3031488e.js",
+    "static/js/453.82a5b650.chunk.js": "/receipt-split-calculator/static/js/453.82a5b650.chunk.js",
+    "index.html": "/receipt-split-calculator/index.html",
+    "main.2c35c5e7.css.map": "/receipt-split-calculator/static/css/main.2c35c5e7.css.map",
+    "main.3031488e.js.map": "/receipt-split-calculator/static/js/main.3031488e.js.map",
+    "453.82a5b650.chunk.js.map": "/receipt-split-calculator/static/js/453.82a5b650.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c35c5e7.css",
+    "static/js/main.3031488e.js"
+  ]
+}
